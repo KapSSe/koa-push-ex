@@ -1,14 +1,14 @@
 {
   "/app-shell.css": {
-    "type": "style",
-    "weight": 1
+    "weight": 1,
+    "type": "style"
+  },
+  "/squareRoot.js": {
+    "weight": 1,
+    "type": "script"
   },
   "/randomNumber.js": {
-    "type": "script",
-    "weight": 1
-  },
-  "/randomNumber.js": {
-    "type": "script",
-    "weight": 1
+    "weight": 1,
+    "type": "script"
   }
 }

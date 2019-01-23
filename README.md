@@ -1,2 +1,6 @@
-# koa-http2-server-push-example
-Example of HTTP2 and Server Push Application
+# Example of HTTP2 and Server Push Application:
+
+1.Add LocalCertificate.cer to trusted in keychain access (to enable htt2);
+2.npm i;
+3.npm start;
+(Additional): to generate/regenerate push_manifest.json -npm manifest ;
